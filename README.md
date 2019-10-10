@@ -1,2 +1,2 @@
-# tbolg.github.io
- Github Hosting of CGOL
+# CGOL
+Interactive Conway's Game of Life 
